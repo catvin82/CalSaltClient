@@ -26,24 +26,24 @@ Have fun using CalSaltClient!
 ! It may be buggy. !
 
 Mods list:
-BetterF3
-blur
-iris
-KronHUD
-lithium
-logical zoom
-modmenu
-mousewheelie
-phosphor
-simple-rpc
-sodium
+BetterF3,
+blur,
+iris,
+KronHUD,
+lithium,
+logical zoom,
+modmenu,
+mousewheelie,
+phosphor,
+simple-rpc,
+sodium,
 spark
 
 Libraries:
-AutoRegLib
-balm
-malilib
-fabric-api
+AutoRegLib,
+balm,
+malilib,
+fabric-api,
 
 Helpful Shortcuts:
 Rightshift for KronHUD editor
