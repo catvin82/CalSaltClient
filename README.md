@@ -1,6 +1,6 @@
 # CalSaltClient
 
-You have successfully installed Catin82's CalSaltClient
+You have successfully installed Catvin82's CalSaltClient
 
 Here are the instructions:
 
