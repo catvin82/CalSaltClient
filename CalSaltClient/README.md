@@ -17,11 +17,3 @@ NONE OF THIS CODE IS MINE! THIS IS A MODPACK!
 Have fun using CalSaltClient!
 
 ! It may be buggy. !
-
-Mods list: BetterF3, blur, iris, KronHUD, lithium, logical zoom, modmenu, mousewheelie, phosphor, simple-rpc, sodium, spark, appleskin, BetterThirdPerson, cloth-config, carpet and worldedit(only for singleplayer/modded server with op), IKnowWhatImDoing, physics-mod(if physics is selected for download), REI (Roughly Enough Items), and Torohealth
-
-Libraries: AutoRegLib, balm, malilib, fabric-api, architectury
-
-Helpful Shortcuts: Rightshift for KronHUD editor
-
-do /spark profile and then wait 15 sec - 15 min and do /spark profile --stop to get a detailed report about your game
